@@ -1,2 +1,2 @@
 # hello-world
-This is first try
+This is first try. For the first time. 
